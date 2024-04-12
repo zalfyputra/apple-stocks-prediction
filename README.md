@@ -1,4 +1,6 @@
-![Apple Store Hamburg](img/apple-store.jpg)
+# Apple Stock Market: Closing Price Prediction
+
+<img src='apple-store.jpg' alt='Apple Store'>
 
 The [dataset](https://www.kaggle.com/datasets/varpit94/apple-stock-data-updated-till-22jun2021) contains daily historical stock market data for Apple Inc. (AAPL) spanning from December 1980 to March 2022. It includes information such as opening and closing prices, high and low prices, and trading volume.
 
